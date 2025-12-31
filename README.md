@@ -7,7 +7,7 @@ A full-stack automated content enhancement system. This application scrapes/seed
 The system operates as a pipeline of four distinct micro-services.
 
 
-```mermaid
+```
 graph TD
     A[Python Seeder] -- 1. Seeds Initial Data --> B(Laravel Backend / SQLite DB)
     C[React Frontend] -- 2. Polls for Updates --> B
