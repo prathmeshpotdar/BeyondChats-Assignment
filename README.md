@@ -139,6 +139,8 @@ Final State: The React App card will automatically turn Green, displaying the AI
 /scraper-python: Data seeding scripts.
 
 🔗 Live Demo
-Frontend: Localhost:3000
+(Note: As this project uses a local SQLite database and multiple microservices, a deployed link is not available. Please follow the local setup instructions or view the attached demo video.)
 
-Backend: Localhost:8000
+Frontend: http://localhost:3000
+
+Backend API: http://127.0.0.1:8000
