@@ -4,7 +4,8 @@ A full-stack automated content enhancement system. This application scrapes/seed
 
 ## 🏗️ Architecture & Data Flow
 
-The system operates as a pipeline of four distinct micro-services:
+The system operates as a pipeline of four distinct micro-services.
+
 
 ```mermaid
 graph TD
@@ -138,7 +139,6 @@ Final State: The React App card will automatically turn Green, displaying the AI
 /scraper-python: Data seeding scripts.
 
 🔗 Live Demo
-
 Frontend: Localhost:3000
 
 Backend: Localhost:8000
