@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+vendor/
+
+# Environment variables
+.env
+
+# Python compilation
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Laravel storage & cache
+/backend-laravel/storage/*.key
+/backend-laravel/public/storage
+/backend-laravel/public/hot
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Database (Do not upload your local SQLite file)
+*.sqlite
